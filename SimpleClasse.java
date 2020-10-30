@@ -9,5 +9,6 @@ public class SimpleClasse {
         int a = 3;
         int b = 5;
         System.out.println("La somme de " + a + " et de " + b + " est : " + sc.somme(a,b));
+        System.out.println("Petit changement");
     }
 }
